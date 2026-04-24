@@ -1,21 +1,5 @@
 # 👋 Hi, I'm Lobov Vitalii
 
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Architect+%7C+Backend+Engineer;Distributed+Systems+%7C+Fintech;Kafka+%7C+NiFi+%7C+Go+%7C+Kubernetes" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Architect-Enterprise-blue?style=for-the-badge"/>`{=html}
-`<img src="https://img.shields.io/badge/Backend-Go-informational?style=for-the-badge&logo=go"/>`{=html}
-`<img src="https://img.shields.io/badge/Focus-Fintech-success?style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
 
 ------------------------------------------------------------------------
 
@@ -100,14 +84,10 @@ Scalability → Observability → Reliability → Evolvability
 
 ## 📊 GitHub Stats
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=LobovVit&show_icons=true&theme=tokyonight" />`{=html}
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=LobovVit&theme=tokyonight" />`{=html}
-```{=html}
-</p>
-```
+
+<img src="https://github-readme-stats.vercel.app/api?username=LobovVit&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LobovVit&theme=tokyonight" />
+
 
 ------------------------------------------------------------------------
 
@@ -117,10 +97,65 @@ Scalability → Observability → Reliability → Evolvability
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
+<img src="https://komarev.com/ghpvc/?username=LobovVit&color=blue&style=flat-square"/>
+
+![Apache NiFi](https://img.shields.io/badge/-NiFi-000)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=terraform)
+![Helm](https://img.shields.io/badge/-Helm-000)
+
+### Observability
+
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=grafana)
+
+------------------------------------------------------------------------
+
+## 🚀 Featured Work
+
+🔹 Kafka → REST Bridge\
+🔹 Data Platform (Kafka + NiFi)\
+🔹 Observability Systems\
+🔹 Auth (Keycloak + PKCE)
+
+------------------------------------------------------------------------
+
+## 🧩 Architecture Mindset
+
+``` text
+Scalability → Observability → Reliability → Evolvability
 ```
-`<img src="https://komarev.com/ghpvc/?username=LobovVit&color=blue&style=flat-square"/>`{=html}
-```{=html}
-</p>
-```
+
+> "Good architecture is the ability to change the system safely."
+
+------------------------------------------------------------------------
+
+## 🌍 Open For
+
+-   💼 Freelance (Architecture / Backend)
+-   🌐 Remote international roles
+-   🧠 Consulting (System design, scaling)
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=LobovVit&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LobovVit&theme=tokyonight" />
+
+
+------------------------------------------------------------------------
+
+## 📫 Contact
+
+📧 lobov.vitaliy@gmail.com
+
+------------------------------------------------------------------------
+
+<img src="https://komarev.com/ghpvc/?username=LobovVit&color=blue&style=flat-square"/>
