@@ -44,7 +44,7 @@ observability & reliability - long-term system evolution
 
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
 ![Apache NiFi](https://img.shields.io/badge/-NiFi-000)
-![Apache Airflow](https://github.com/apache/airflow/blob/c3f9da4846c8bde6b70aff771615d39e010decb0/airflow-core/docs/img/logos/wordmark_1.svg)
+![Apache Airflow]()
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 
 ### Infrastructure
